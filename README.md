@@ -5,6 +5,7 @@
 <img height="48%" src="https://github-readme-stats.vercel.app/api?username=rickstt&count_private=true&show_icons=true&theme=tokyonight">
 <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickstt&hide_progress=true&layout=compact&theme=tokyonight">
 </div>
+  
 
 <div>
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
