@@ -1,10 +1,5 @@
 ### Olá! Seja bem-vindo(a) 👋
 
-<div>
-<a href="https://github.com/rickstt">
-<img height="48%" src="https://github-readme-stats.vercel.app/api?username=rickstt&count_private=true&show_icons=true&theme=tokyonight">
-<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickstt&hide_progress=true&layout=compact&theme=tokyonight">
-</div>
   
 
 <div>
