@@ -2,11 +2,9 @@
 
   
 
-<div>
-  
 [![Algumas linguagens que utilizo no meu dia-dia](https://skillicons.dev/icons?i=mysql,java,spring,docker,py,git,html,css,js,react)](https://skillicons.dev)
 
-</div>
+
 
 
 ##
