@@ -2,7 +2,7 @@
 
   
 
-[![Algumas linguagens que utilizo no meu dia-dia](https://skillicons.dev/icons?i=mysql,java,spring,docker,py,git,html,css,js,react)](https://skillicons.dev)
+[![Algumas linguagens que utilizo no meu dia-dia](https://skillicons.dev/icons?i=mysql,java,spring,node,docker,py,git,html,css,js)](https://skillicons.dev)
 
 
 
