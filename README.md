@@ -1,7 +1,6 @@
 ### Olá! Seja bem-vindo(a) 👋
 
 
-
 [![Algumas das tecnologias que utilizo no meu dia-dia](https://skillicons.dev/icons?i=mysql,spring,nodejs,docker,py,git,html,css,js)](https://skillicons.dev)
 
 
