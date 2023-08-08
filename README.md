@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo(a) 👋
 
 
-[![Algumas das tecnologias que utilizo no meu dia-dia](https://skillicons.dev/icons?i=nodejs,spring,docker,py,git,html,css,js)](https://skillicons.dev)
+[![Algumas das tecnologias que utilizo no meu dia-dia](https://skillicons.dev/icons?i=jenkins,nodejs,express,spring,docker,py,git,html,css,bootstrap,tailwind,js,ts,react,nextjs)]()
 
 
 ##
