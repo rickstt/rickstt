@@ -1,8 +1,8 @@
 ### Olá! Seja bem-vindo(a) 👋
 
 
-[![Algumas das tecnologias que utilizo no meu dia-dia](https://skillicons.dev/icons?i=jenkins,nodejs,express,spring,docker,html,css,bootstrap,tailwind,js,ts,react,nextjs)]()
-
+[![Tecnologias utilizadas](https://skillicons.dev/icons?i=jenkins,nodejs,express,spring,docker,html,css,bootstrap,tailwind,js,ts,react,nextjs)]()
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rickstt)](https://github.com/rickstt/github-contribution-stats/)
 
 ##
 
